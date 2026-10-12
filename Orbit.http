@@ -1,0 +1,44 @@
+@Orbit_HostAddress = https://localhost:7099
+
+###
+
+GET {{Orbit_HostAddress}}/api/users
+
+###
+
+POST {{Orbit_HostAddress}}/api/users
+Content-Type: application/json
+
+{
+  "id": 6,
+  "name": "jim",
+  "email": "jim@gmail.com",
+  "password": "756"
+}
+
+###
+
+DELETE {{Orbit_HostAddress}}/api/users/4
+Content-Type: application/json
+
+###
+GET {{Orbit_HostAddress}}/api/UserTasks
+
+###
+
+POST {{Orbit_HostAddress}}/api/usertasks
+Content-Type: application/json
+
+{
+  "id": 4,
+  "userId": 1,
+  "name": "go to gym",
+  "deadline": "2026-10-12T00:00:00",
+  "isDone": false
+}
+
+###
+
+DELETE {{Orbit_HostAddress}}/api/usertasks/4
+
+###
