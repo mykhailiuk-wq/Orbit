@@ -410,45 +410,6 @@
           }
         }
       }
-    },
-    "/Home": {
-      "get": {
-        "tags": [
-          "Home"
-        ],
-        "operationId": "GetUsernames",
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/User"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/User"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/User"
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
     }
   },
   "components": {
@@ -672,9 +633,6 @@
     },
     {
       "name": "UserTasks"
-    },
-    {
-      "name": "Home"
     }
   ]
 }

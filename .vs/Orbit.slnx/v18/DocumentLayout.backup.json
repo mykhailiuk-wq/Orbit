@@ -3,28 +3,27 @@
   "WorkspaceRootPath": "D:\\Orbit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Orbit/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|d:\\orbit\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|d:\\orbit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|d:\\orbit\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|solutionrelative:models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|d:\\orbit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|d:\\orbit\\orbit.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8BEE0C27-CCF7-4922-886D-B455E71A7E2B}|Orbit.csproj|solutionrelative:orbit.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|d:\\orbit\\orbit.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E690279-01B2-21E9-41C8-F456A1F556BF}|Orbit.csproj|solutionrelative:orbit.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +33,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Orbit/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-12T10:30:13.764Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Orbit\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Orbit\\Models\\User.cs*",
-              "RelativeToolTip": "Models\\User.cs*",
+              "ToolTip": "D:\\Orbit\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T09:59:04.996Z",
@@ -52,25 +61,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Orbit\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Orbit\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T14:57:06.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\Orbit\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "D:\\Orbit\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T13:53:12.225Z",
               "EditorCaption": ""
@@ -85,8 +81,7 @@
               "RelativeToolTip": "Models\\UserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T10:00:02.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T10:00:02.946Z"
             },
             {
               "$type": "Document",
@@ -98,8 +93,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:20:02.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T08:20:02.929Z"
             },
             {
               "$type": "Document",
@@ -111,8 +105,7 @@
               "RelativeToolTip": "Orbit.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-10-11T09:56:37.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T09:56:37.75Z"
             }
           ]
         }

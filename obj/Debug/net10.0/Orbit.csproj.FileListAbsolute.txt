@@ -166,3 +166,4 @@ D:\Orbit\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
 D:\Orbit\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
 D:\Orbit\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\Orbit\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Orbit\obj\Debug\net10.0\Orbit.sourcelink.json
